@@ -14,3 +14,7 @@
 -  📖 Basic-js: https://github.com/Zelenevskayamarina/Basic-js
 -  📖 Guessing-game: https://github.com/Zelenevskayamarina/Guessing-game
 -  📖 Brackets: https://github.com/Zelenevskayamarina/Brackets
+-  📖 Towel-sort: https://github.com/Zelenevskayamarina/Towel-sort
+-  📖 Morse-decoder: https://github.com/Zelenevskayamarina/Morse-decoder
+-  📖 Human-readable-number: https://github.com/Zelenevskayamarina/Human-readable-number
+-  📖 Reverse-int: https://github.com/Zelenevskayamarina/Reverse-int
