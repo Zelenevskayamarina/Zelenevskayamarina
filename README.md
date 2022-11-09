@@ -9,7 +9,7 @@
 -  📖 MoGo landing: https://zelenevskayamarina.github.io/MoGo-landing-gulp/
 -  📖 Japan landing: https://zelenevskayamarina.github.io/Japan-landing/
 -  📖 HTML-builder: https://github.com/Zelenevskayamarina/HTML-builder
--  📖 Clean-code-s1e1: ttps://github.com/Zelenevskayamarina/Clean-code-s1e1
+-  📖 Clean-code-s1e1: https://github.com/Zelenevskayamarina/Clean-code-s1e1
 -  📖 Basic-js-ds: https://github.com/Zelenevskayamarina/Basic-js-ds
 -  📖 Basic-js: https://github.com/Zelenevskayamarina/Basic-js
 -  📖 Guessing-game: https://github.com/Zelenevskayamarina/Guessing-game
