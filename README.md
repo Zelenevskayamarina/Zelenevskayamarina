@@ -10,4 +10,7 @@
 
 -  📖 Travel landing (gulp): https://zelenevskayamarina.github.io/Travel-landing-gulp/
 
--  📖 AXIT lnding(gulp): ttps://zelenevskayamarina.github.io/AXIT-landing-gulp/
+-  📖 AXIT lnding(gulp): https://zelenevskayamarina.github.io/AXIT-landing-gulp/
+
+-  📖 MoGo landing (gulp): https://zelenevskayamarina.github.io/MoGo-landing-gulp/
+
