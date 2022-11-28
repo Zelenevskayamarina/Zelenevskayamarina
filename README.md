@@ -11,6 +11,7 @@ My projects:
 -  📖 AXIT lnding: https://zelenevskayamarina.github.io/AXIT-landing-gulp/
 -  📖 MoGo landing: https://zelenevskayamarina.github.io/MoGo-landing-gulp/
 -  📖 Japan landing: https://zelenevskayamarina.github.io/Japan-landing/
+-  📖 Core-js-101: https://github.com/Zelenevskayamarina/Core-js-101
 -  📖 HTML-builder: https://github.com/Zelenevskayamarina/HTML-builder
 -  📖 Clean-code-s1e1: https://github.com/Zelenevskayamarina/Clean-code-s1e1
 -  📖 Basic-js-ds: https://github.com/Zelenevskayamarina/Basic-js-ds
