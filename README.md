@@ -3,6 +3,7 @@
 🖥 I am learning front end web development.
 
 My projects:
+-  📖 ToDo-React-TypeScript: https://github.com/Zelenevskayamarina/ToDo-React-TypeScript
 -  📖 Songbird: https://zelenevskayamarina.github.io/Songbird/
 -  📖 Gempuzzle codejam: https://zelenevskayamarina.github.io/Gempuzzle-codejam/ 
 -  📖 Momentum: https://zelenevskayamarina-momentum-app.netlify.app/ (https://zelenevskayamarina.github.io/Momentum/)
