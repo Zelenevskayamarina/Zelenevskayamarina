@@ -3,7 +3,12 @@
 🖥 I am learning front end web development.
 
 My projects:
--  📖 ToDo-React-TypeScript: https://github.com/Zelenevskayamarina/ToDo-React-TypeScript (https://zelenevskayamarina-todo-react-ts.netlify.app/)-  📖
+-  📖 ToDo-React-TypeScript: https://github.com/Zelenevskayamarina/ToDo-React-TypeScript (https://zelenevskayamarina-todo-react-ts.netlify.app/)
+-  📖 Gempuzzle codejam: https://zelenevskayamarina.github.io/Gempuzzle-codejam/ 
+-  📖 Momentum: https://zelenevskayamarina-momentum-app.netlify.app/ (https://zelenevskayamarina.github.io/Momentum/)
+-  📖 Eldritch-horror codejam: https://zelenevskayamarina.github.io/Eldritch-horror-codejam/
+-  📖 Online-zoo landing: https://zelenevskayamarina.github.io/Online-zoo-landing/
+-  📖 Travel landing: https://zelenevskayamarina.github.io/Travel-landing-gulp/
 -  📖 MoGo landing: https://zelenevskayamarina.github.io/MoGo-landing-gulp/
 -  📖 Japan landing: https://zelenevskayamarina.github.io/Japan-landing/
 -  📖 Core-js-101: https://github.com/Zelenevskayamarina/Core-js-101
