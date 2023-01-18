@@ -10,6 +10,7 @@ My projects:
 -  📖 Online-zoo landing: https://zelenevskayamarina.github.io/Online-zoo-landing/
 -  📖 Travel landing: https://zelenevskayamarina.github.io/Travel-landing-gulp/
 -  📖 MoGo landing: https://zelenevskayamarina.github.io/MoGo-landing-gulp/
+-  📖 AXIT landing: https://zelenevskayamarina.github.io/AXIT-landing-gulp/
 -  📖 Japan landing: https://zelenevskayamarina.github.io/Japan-landing/
 -  📖 Core-js-101: https://github.com/Zelenevskayamarina/Core-js-101
 -  📖 HTML-builder: https://github.com/Zelenevskayamarina/HTML-builder
