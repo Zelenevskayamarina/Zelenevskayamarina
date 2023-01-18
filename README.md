@@ -3,7 +3,7 @@
 🖥 I am learning front end web development.
 
 My projects:
--  📖 Songbird:https://zelenevskayamarina.github.io/Songbird/
+-  📖 Songbird: https://zelenevskayamarina.github.io/Songbird/
 -  📖 Game: https://zelenevskayamarina.github.io/Game/project9.html
 -  📖 Gempuzzle codejam: https://zelenevskayamarina.github.io/Gempuzzle-codejam/ 
 -  📖 Momentum: https://zelenevskayamarina-momentum-app.netlify.app/ (https://zelenevskayamarina.github.io/Momentum/)
